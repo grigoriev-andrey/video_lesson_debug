@@ -14,5 +14,3 @@ def multiplier():
 
 
 multiplier()
-
-print('test')
