@@ -12,3 +12,4 @@ def update_greetings(local_greetings):
 if __name__ == '__main__':
     result = get_greetings()    
     print(result)
+    print(result)
